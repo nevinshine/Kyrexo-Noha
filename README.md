@@ -18,7 +18,7 @@
 1. Clone the repo:  
    
 bash
-   git clone https://github.com/yourusername/Kyrexo-Noha.git
+   git clone https://github.com/nevinshine/Kyrexo-Noha.git
   
 2. Install dependencies (Python):  
    
