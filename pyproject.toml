@@ -2,7 +2,7 @@
 name = "kyrexo-noha"
 version = "0.1.0"
 description = "Kyrexo: The ultimate development platform | Noha: The intuitive programming language that translates natural language into executable code."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Nevin Shime <nevinshine@hotmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
