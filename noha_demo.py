@@ -26,7 +26,6 @@ def run_tests(engine):
         print(f"Test Command: {cmd}")
         run_command(engine, cmd)
 
-# Main function
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Noha Demo Script")
     parser.add_argument("--run", type=str, help="Run a Noha command")
